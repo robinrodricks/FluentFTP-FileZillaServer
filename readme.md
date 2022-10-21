@@ -1,10 +1,13 @@
-**FileZilla Server version 0.9.60 beta**
+# FileZilla Server version 0.9.60 beta
 
 Copyright 2001-2017  
 by [Tim Kosse](mailto:tim.kosse@filezilla-project.org)[  
 https://filezilla-project.org/](https://filezilla-project.org/)
 
-**Features:**
+## FluentFTP
+Forked for use by FluentFTP on 21/10/2022.
+
+## Features
 
 *   almost unlimited number of users
 *   multi-threaded engine
@@ -17,7 +20,7 @@ https://filezilla-project.org/](https://filezilla-project.org/)
 *   Server and user/group speed limits based on rule sets.
 *   MODE Z file transfer compression
 
-**Release Notes:**
+## Release Notes
 
 Please report any bugs immediately to [tim.kosse@filezilla-project.org](mailto:tim.kosse@filezilla-project.org) and don't forget to include some system details as it helps to identify the bugs.
 
