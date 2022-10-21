@@ -24,36 +24,6 @@ Forked for use by FluentFTP on 21/10/2022.
 
 Please report any bugs immediately to [tim.kosse@filezilla-project.org](mailto:tim.kosse@filezilla-project.org) and don't forget to include some system details as it helps to identify the bugs.
 
-**The tray icon**
-
-From the tray icon you've access to different features of FileZilla Server. You can enable/disable, lock/unlock or exit the server as well as restoring it to normal size.
-
-List of tray icon states:
-
-red
-
-server offline
-
-yellow
-
-server online
-
-green
-
-client connected
-
-flashing red-green
-
-server will go offline or will exit when all clients are disconnected
-
-flashing red-yellow
-
-server is locked
-
-flashing yellow-green
-
-server is locked and clients are still connected
-
 **Version History:**
 
 For a more detailed list of changes, please have a look at the SVN changelog located at [https://filezilla-project.org/changelog.php?type=2](https://filezilla-project.org/changelog.php?type=2).
